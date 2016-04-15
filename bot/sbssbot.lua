@@ -423,7 +423,7 @@ Un Filter a word
 /filterlist
 List of filtered words
 ____________
-Send /share to get robot number +989216089692
+Send /share to get robot number +15742850069
 ____________
 You can use [ ! , / or # ]or don’t use them
 More Details on @Sbss_Team
